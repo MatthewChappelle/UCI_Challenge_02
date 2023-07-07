@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* header of page */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* changed the 3 seperated classes containing the same styles and combined into one class */
+/* changed the 3 seperated classes containing the same styles and combined into one class for body images */
 .offers {
     margin-bottom: 20px;
     padding: 50px;
